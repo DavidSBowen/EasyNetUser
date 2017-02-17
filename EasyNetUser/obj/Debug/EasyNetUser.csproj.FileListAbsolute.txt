@@ -1,0 +1,9 @@
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\bin\Debug\EasyNetUser.exe.config
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\bin\Debug\EasyNetUser.exe
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\bin\Debug\EasyNetUser.pdb
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\obj\Debug\EasyNetUser.csprojResolveAssemblyReference.cache
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\obj\Debug\EasyNetUser.Form1.resources
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\obj\Debug\EasyNetUser.Properties.Resources.resources
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\obj\Debug\EasyNetUser.csproj.GenerateResource.Cache
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\obj\Debug\EasyNetUser.exe
+C:\Users\lesst\Desktop\Programming\Projects\GitHub\EasyNetUser\EasyNetUser\EasyNetUser\obj\Debug\EasyNetUser.pdb
