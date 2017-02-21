@@ -1,3 +1,9 @@
 Requirements v1
 
 - 
+
+
+Get Usernames Button:
+-Populate "Select username" dropdown
+--run cmd net user /domain
+--return results to dropdown
